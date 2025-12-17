@@ -1,0 +1,11 @@
+{
+    "name": "Blockchain Accelerator NFT 1",
+    "description": "NFT collection by Blockchain Accelerator - Andres Bustamante",
+    "image": "ipfs://bafybeihbrel6eceaxbzci5atshns7xeg2yb6n3kwyazbmeeydfdx3v6k2m",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "1"
+        }
+    ]
+}
