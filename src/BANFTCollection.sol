@@ -2,8 +2,6 @@
 
 pragma solidity 0.8.24;
 
-// bafybeicn6ypif7cy3bbcmteply3itx36vqyiil7zobxmahq7puewgouoce
-
 import {ERC721} from "openzeppelin/contracts/token/ERC721/ERC721.sol";
 import {Strings} from "openzeppelin/contracts/utils/Strings.sol";
 
